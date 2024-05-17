@@ -3,6 +3,10 @@
     {
       "id": "Finance",
       "isDefault": true
+    },
+    {
+      "id": "Operation",
+      "isDefault": false
     }
   ],
   "viewMode": false,
@@ -22,6 +26,9 @@
     }
   },
   "color": "#FFDEDE",
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
