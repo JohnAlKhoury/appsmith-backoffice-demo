@@ -3,6 +3,14 @@
     {
       "id": "Finance",
       "isDefault": true
+    },
+    {
+      "id": "H2H",
+      "isDefault": false
+    },
+    {
+      "id": "Payouts",
+      "isDefault": false
     }
   ],
   "viewMode": false,
