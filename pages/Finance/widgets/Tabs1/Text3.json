@@ -22,7 +22,7 @@
         "selectionBGCSSVar": "--on-canvas-ui-widget-selection",
         "selectionColorCSSVar": "--on-canvas-ui-widget-focus"
     },
-    "isVisible": "{{appsmith.user.roles.includes(role => role == 'Finance Manager')}}",
+    "isVisible": "{{appsmith.user.roles.includes('Finance Manager')}}",
     "fontStyle": "BOLD",
     "textColor": "#ef4444",
     "version": 1,
