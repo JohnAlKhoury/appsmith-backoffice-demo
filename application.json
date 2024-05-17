@@ -1,8 +1,12 @@
 {
   "pages": [
     {
-      "id": "Finance",
+      "id": "Home",
       "isDefault": true
+    },
+    {
+      "id": "Finance",
+      "isDefault": false
     },
     {
       "id": "Operation",
