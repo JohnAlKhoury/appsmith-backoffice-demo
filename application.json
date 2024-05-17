@@ -1,8 +1,12 @@
 {
   "pages": [
     {
-      "id": "Finance",
+      "id": "Home",
       "isDefault": true
+    },
+    {
+      "id": "Finance",
+      "isDefault": false
     },
     {
       "id": "Operation",
@@ -27,6 +31,9 @@
   },
   "color": "#FFDEDE",
   "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
+  "publishedAppLayout": {
     "type": "FLUID"
   },
   "unpublishedCustomJSLibs": [],
