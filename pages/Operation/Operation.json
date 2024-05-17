@@ -2,6 +2,7 @@
   "unpublishedPage": {
     "name": "Operation",
     "slug": "operation",
+    "customSlug": "operation",
     "layouts": [
       {
         "viewMode": false,

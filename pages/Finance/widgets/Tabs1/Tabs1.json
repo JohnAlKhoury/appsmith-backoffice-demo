@@ -30,6 +30,7 @@
             "minHeight": 150,
             "mobileRightColumn": 317.625,
             "parentColumnSpace": 1,
+            "dynamicTriggerPathList": [],
             "leftColumn": 0,
             "dynamicBindingPathList": [
                 {"key": "borderRadius"},
