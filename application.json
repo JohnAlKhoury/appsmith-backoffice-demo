@@ -32,6 +32,10 @@
     {
       "id": "Operation",
       "isDefault": false
+    },
+    {
+      "id": "Database",
+      "isDefault": false
     }
   ],
   "unpublishedAppLayout": {
